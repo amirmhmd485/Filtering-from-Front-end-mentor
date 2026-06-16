@@ -1,0 +1,26 @@
+<div class="box">
+      <div class="left">
+        <img src="images/insure.svg" alt="">
+        <div class="info">
+          <div class="head">
+            <h3>photosnap</h3>
+            <span>New</span>
+            <span>Feature</span>
+          </div>
+          <h2>Seniro Front End Developer</h2>
+          <div class="foot">
+            <p>1d ago</p>
+            <p>Full Time</p>
+            <p>USA Only</p>
+          </div>
+        </div>
+      </div>
+      <div class="right">
+        <span>HTML</span>
+        <span>CSS</span>
+        <span>JS</span>
+        <span>Bootsrap</span>
+        <span>Tailwend</span>
+        <span>React</span>
+      </div>
+    </div>
